@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_checkurlresponse",
+  "version": "1.0.0",
+  "description": "check a URLs response, store it as local file, and compare every x seconds and when upate found, log to console and update local file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node-checkResponseData"
+  },
+  "keywords": [
+    "tamaker",
+    "nodejs"
+  ],
+  "author": "aamaker",
+  "license": "MIT"
+}
